@@ -1,2 +1,9 @@
-# BSIT-2-1-Weather-Website
-BSIT 2-1
+BSIT 2-1 PUP-SPC
+Free Elective
+
+Group 9
+Sevilla
+Ranchez
+Palec
+Apeta
+Bordeos
